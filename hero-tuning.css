@@ -1,0 +1,3 @@
+.hero-media img{object-position:43% 50%;filter:brightness(.85)}
+.hero-copy{top:14%}.hero h1{font-size:clamp(64px,7vw,115px)}
+@media(max-width:650px){.hero-media img{object-position:39% 50%;filter:brightness(.82)}.hero-copy{top:16%}.hero h1{font-size:clamp(51px,12vw,78px)}}
